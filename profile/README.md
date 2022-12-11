@@ -1,4 +1,4 @@
-# CSE_SLink
+# [CSE S-Link] DATN - NguyenCaoThiem 
 
 ### thiemnc-datn-server:    https://thiemnc-datn-server.herokuapp.com
 ### thiemnc-datn-web:       https://thiemnc-datn-web.herokuapp.com
